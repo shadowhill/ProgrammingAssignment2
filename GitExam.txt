@@ -78,7 +78,6 @@ $ git status
 nothing to commit (working directory clean)
 Git告诉我们当前没有需要提交的修改，而且，工作目录是干净（working directory clean）的
 
-
 ------------------------------------------------------------------------------------------
 
 现在，你已经学会了修改文件，然后把修改提交到Git版本库，现在，再练习一次，修改readme.txt文件如下：
